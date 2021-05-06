@@ -10,6 +10,7 @@
  * Author URI: https://themightymo.com/
  * GitHub Plugin URI: https://github.com/themightymo/gravity-forms-stripe-1-time-create-customer
  * GitHub Branch: main
+ * License: GPLv2 (or later)
  */
 
 add_filter( 'gform_stripe_customer_id', function ( $customer_id, $feed, $entry, $form ) {
