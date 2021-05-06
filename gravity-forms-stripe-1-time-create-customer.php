@@ -8,6 +8,8 @@
  * Text Domain: 
  * Author: The Mighty Mo! WordPress Design
  * Author URI: https://themightymo.com/
+ * GitHub Plugin URI: https://github.com/themightymo/gravity-forms-stripe-1-time-create-customer
+ * GitHub Branch: master
  */
 
 add_filter( 'gform_stripe_customer_id', function ( $customer_id, $feed, $entry, $form ) {
