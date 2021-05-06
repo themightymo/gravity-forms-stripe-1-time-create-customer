@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Gravity Forms Stripe 1-time Purchase Create Customer
  * Plugin URI: https://themightymo.com/
- * Description: Stripe customer email address fixer
+ * Description: 1-time Gravity Forms + Stripe purchases create Stripe Customers using their email.  This way, you can charge their card later if needed.
  * Version: 1.0
  * Text Domain: 
  * Author: The Mighty Mo! WordPress Design
