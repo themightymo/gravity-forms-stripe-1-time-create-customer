@@ -9,6 +9,8 @@ Gravity Forms has a Stripe add-on that connects to Stripe and allows for 1-time 
 3. Create a Gravity Forms Stripe feed with the name, "1-time".
 4. On the form, set the "Receipt" field to be email (screengrab below).
 
+FYI: I haven't been able to get this working on WordPress.com - not sure why!
+
 ![Image of setting up the "Receipt" field in Gravity Forms](https://github.com/themightymo/gravity-forms-stripe-1-time-create-customer/blob/main/set%20stripe%20receipt%20to%20email.png)
 
 
